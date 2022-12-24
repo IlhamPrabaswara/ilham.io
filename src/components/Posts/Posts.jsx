@@ -3,7 +3,7 @@ import Post from "../Post/Post";
 
 export const blogPosts = [
     {
-        title: "JavaScript",
+        title: "A Ride to the Summit",
         body: `JavaScript is the world most popular 
         lightweight, interpreted compiled programming 
         language. It is also known as scripting 
@@ -13,7 +13,7 @@ export const blogPosts = [
         used for Client-side developments as well as 
         Server-side developments`,
         description: "This is JavaScript",
-        author: "Nishant Singh ",
+        author: "Ilham Prabaswara",
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png",
     },

@@ -6,11 +6,11 @@ import { Link } from "react-router-dom";
 
 const CardView = () => {
     return (
-        <div className="grid grid-cols-3 gap-5">
+        <div className="grid sm:grid-cols-1 xl:grid-cols-3 gap-5 cardView">
             {
                 blogPosts.slice(0,3).map((post) => (
                     <Card
-                        className='blog-card border-gray-500 mb-5 border-neutral-800 bg-transparent'
+                        className='blog-card border-gray-500 mb-5 border-neutral-800'
                         imgSrc="https://flowbite.com/docs/images/blog/image-1.jpg">
                         <h5 className="text-2xl font-bold tracking-tight text-neutral-300">
                             {post.title}

@@ -10,7 +10,7 @@ const CardView = () => {
             {
                 blogPosts.slice(0,3).map((post) => (
                     <Card
-                        className='cardView border-gray-500 mb-5 border-neutral-800'
+                        className='cardView mb-5'
                         imgSrc="https://flowbite.com/docs/images/blog/image-1.jpg">
                         <h5 className="text-2xl font-bold tracking-tight text-neutral-300">
                             {post.title}

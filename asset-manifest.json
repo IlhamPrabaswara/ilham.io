@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/ilham.io/static/css/main.1051287a.css",
-    "main.js": "/ilham.io/static/js/main.cc66adab.js",
+    "main.css": "/ilham.io/static/css/main.eba04710.css",
+    "main.js": "/ilham.io/static/js/main.f4d6ad9a.js",
     "static/js/787.de60efc1.chunk.js": "/ilham.io/static/js/787.de60efc1.chunk.js",
     "index.html": "/ilham.io/index.html",
-    "main.1051287a.css.map": "/ilham.io/static/css/main.1051287a.css.map",
-    "main.cc66adab.js.map": "/ilham.io/static/js/main.cc66adab.js.map",
+    "main.eba04710.css.map": "/ilham.io/static/css/main.eba04710.css.map",
+    "main.f4d6ad9a.js.map": "/ilham.io/static/js/main.f4d6ad9a.js.map",
     "787.de60efc1.chunk.js.map": "/ilham.io/static/js/787.de60efc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1051287a.css",
-    "static/js/main.cc66adab.js"
+    "static/css/main.eba04710.css",
+    "static/js/main.f4d6ad9a.js"
   ]
 }

@@ -10,7 +10,7 @@ function App() {
     <div className='container'>
       <BrowserRouter>
         <header>
-          <Link className='logo' to='/'>ilham.io</Link>
+          <Link className='logo' to='/ilham.io'>ilham.io</Link>
           <nav>
             <Link to='/blog'>Blog</Link>
             <Link to='/about'>About</Link>
@@ -19,7 +19,7 @@ function App() {
         </header>
         <section>
           <Routes>
-            <Route path='/' element={<Home />} />
+            <Route path='/ilham.io' element={<Home />} />
             <Route path='/blog' element={<Blog />} />
             <Route path='/about' element={<About />} />
             <Route path='/work' element={<Work />} />

@@ -12,6 +12,7 @@ export const blogPosts = [
         environments also use it. JavaScript can be 
         used for Client-side developments as well as 
         Server-side developments`,
+        description: "This is JavaScript",
         author: "Nishant Singh ",
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png",
@@ -27,6 +28,7 @@ export const blogPosts = [
   stack for the longest period of time. So, it 
   can be simply seen to follow LIFO(Last In 
   First Out)/FILO(First In Last Out) order.`,
+        description: "This is Data Structure",
         author: "Suresh Kr",
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/coa-gate-2022-thumbnail.png",
@@ -42,6 +44,7 @@ export const blogPosts = [
         devices; these are known as Network devices
         and include things such as routers, switches,
         hubs, and bridges. `,
+        description: "This is Computer Network",
         author: "Sonu Kr",
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
@@ -52,7 +55,7 @@ const Posts = () => {
         <>
             {blogPosts.map((post) => (
                 <div className="blogPosts">
-                    <Post post={post}/>
+                    <Post post={post} />
                 </div>
             ))}
         </>

@@ -14,7 +14,7 @@ const CardView = () => {
                             {post.title}
                         </h5>
                         <p className="font-normal text-neutral-400">
-                            {post.body}
+                            {post.description}
                         </p>
                         <Button>
                             Read more

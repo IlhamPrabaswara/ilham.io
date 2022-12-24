@@ -49,6 +49,54 @@ export const blogPosts = [
         imgUrl:
             "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
     },
+    {
+        title: "Computer Network",
+        body: `An interconnection of multiple devices, 
+        also known as hosts, that are connected using 
+        multiple paths for the purpose of sending/
+        receiving data media. Computer networks can 
+        also include multiple devices/mediums which 
+        help in the communication between two different 
+        devices; these are known as Network devices
+        and include things such as routers, switches,
+        hubs, and bridges. `,
+        description: "This is Computer Network",
+        author: "Sonu Kr",
+        imgUrl:
+            "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
+    },
+    {
+        title: "Computer Network",
+        body: `An interconnection of multiple devices, 
+        also known as hosts, that are connected using 
+        multiple paths for the purpose of sending/
+        receiving data media. Computer networks can 
+        also include multiple devices/mediums which 
+        help in the communication between two different 
+        devices; these are known as Network devices
+        and include things such as routers, switches,
+        hubs, and bridges. `,
+        description: "This is Computer Network",
+        author: "Sonu Kr",
+        imgUrl:
+            "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
+    },
+    {
+        title: "Computer Network",
+        body: `An interconnection of multiple devices, 
+        also known as hosts, that are connected using 
+        multiple paths for the purpose of sending/
+        receiving data media. Computer networks can 
+        also include multiple devices/mediums which 
+        help in the communication between two different 
+        devices; these are known as Network devices
+        and include things such as routers, switches,
+        hubs, and bridges. `,
+        description: "This is Computer Network",
+        author: "Sonu Kr",
+        imgUrl:
+            "https://media.geeksforgeeks.org/img-practice/banner/cp-maths-java-thumbnail.png",
+    },
 ]
 const Posts = () => {
     return (

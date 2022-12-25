@@ -1,5 +1,6 @@
 import React from "react";
 import Post from "../Post/Post";
+import img1 from '../../images/ride-to-summit.jpg'
 
 export const blogPosts = [
     {
@@ -14,8 +15,8 @@ export const blogPosts = [
         Server-side developments`,
         description: "This is JavaScript",
         author: "Ilham Prabaswara",
-        imgUrl:
-            "https://media.geeksforgeeks.org/img-practice/banner/diving-into-excel-thumbnail.png",
+        imgUrl: `${ img1 }`,
+        imgAlt: 'ride-to-the-summit'
     },
     {
         title: "Data Structure ",

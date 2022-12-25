@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/ilham.io/static/css/main.eba04710.css",
-    "main.js": "/ilham.io/static/js/main.7f9d4b5d.js",
+    "main.css": "/ilham.io/static/css/main.760c89f2.css",
+    "main.js": "/ilham.io/static/js/main.6c1a943d.js",
     "static/js/787.de60efc1.chunk.js": "/ilham.io/static/js/787.de60efc1.chunk.js",
+    "static/media/ride-to-summit.jpg": "/ilham.io/static/media/ride-to-summit.1551f1ce906fcb41a93f.jpg",
     "index.html": "/ilham.io/index.html",
-    "main.eba04710.css.map": "/ilham.io/static/css/main.eba04710.css.map",
-    "main.7f9d4b5d.js.map": "/ilham.io/static/js/main.7f9d4b5d.js.map",
+    "main.760c89f2.css.map": "/ilham.io/static/css/main.760c89f2.css.map",
+    "main.6c1a943d.js.map": "/ilham.io/static/js/main.6c1a943d.js.map",
     "787.de60efc1.chunk.js.map": "/ilham.io/static/js/787.de60efc1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eba04710.css",
-    "static/js/main.7f9d4b5d.js"
+    "static/css/main.760c89f2.css",
+    "static/js/main.6c1a943d.js"
   ]
 }
